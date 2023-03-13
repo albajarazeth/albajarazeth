@@ -8,8 +8,9 @@
 to feel confident with POSTGRE SQL.
 
 ![image](https://user-images.githubusercontent.com/98627735/224582235-4e53dd3b-2779-4e8f-8647-0d553d8ed38e.png) 
-![image](https://user-images.githubusercontent.com/98627735/224582342-d4d1a8ad-1249-434f-af7d-8844b069570c.png)
+![image](https://user-images.githubusercontent.com/98627735/224582378-aa47aa9c-501a-4643-8664-b268e916bec9.png)
 ![image](https://user-images.githubusercontent.com/98627735/224582316-3be9a4a8-0871-4211-ba6f-d62e6c7cf580.png)
+![image](https://user-images.githubusercontent.com/98627735/224582399-8e87ea70-7af3-4465-a007-89e499dece47.png)
 
 
 
