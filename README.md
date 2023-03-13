@@ -6,6 +6,7 @@
 - I’m looking to collaborate on anything really!
 - I’m looking currently taking a relation-databases course 
 to feel confident with POSTGRE SQL.
+- How to reach me: albagarzadev@gmail.com
 
 ![image](https://user-images.githubusercontent.com/98627735/224582235-4e53dd3b-2779-4e8f-8647-0d553d8ed38e.png) 
 ![image](https://user-images.githubusercontent.com/98627735/224582378-aa47aa9c-501a-4643-8664-b268e916bec9.png)
