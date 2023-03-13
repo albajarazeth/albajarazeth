@@ -7,7 +7,10 @@
 - I’m looking currently taking a relation-databases course 
 to feel confident with POSTGRE SQL.
 
-![image](https://user-images.githubusercontent.com/98627735/224582235-4e53dd3b-2779-4e8f-8647-0d553d8ed38e.png) ![image](https://user-images.githubusercontent.com/98627735/224582275-6e85619a-08b6-4e3c-aa4b-340341e27679.png) ![image](https://user-images.githubusercontent.com/98627735/224582290-1c69ddd6-66ec-4364-b42c-53cca0eeb06e.png)
+![image](https://user-images.githubusercontent.com/98627735/224582235-4e53dd3b-2779-4e8f-8647-0d553d8ed38e.png) 
+![image](https://user-images.githubusercontent.com/98627735/224582342-d4d1a8ad-1249-434f-af7d-8844b069570c.png)
+![image](https://user-images.githubusercontent.com/98627735/224582316-3be9a4a8-0871-4211-ba6f-d62e6c7cf580.png)
+
 
 
 
