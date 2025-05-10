@@ -1,5 +1,5 @@
 🎀&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎀
-### <h1>Hey there! </h1>
+### <h1>Hey! </h1>
 I'm a fullstack sofware engineer. I like to code and make pretty things.
 <h3>My stack is</h3>
 <img src="https://github.com/albajarazeth/albajarazeth/assets/98627735/3f9dfa65-3977-4d4f-9274-b7cad199dfc1" width="100" height="100" class="rounded-image">
