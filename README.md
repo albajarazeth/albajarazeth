@@ -7,9 +7,8 @@ I'm a fullstack sofware engineer. I like to code and make pretty things.
 <img src="https://github.com/albajarazeth/albajarazeth/assets/98627735/a7079034-c439-463c-a3bf-83675fa1cad4" width="100" height="100" class="rounded-image">
 <img src="https://github.com/albajarazeth/albajarazeth/assets/98627735/07aa38e8-b4e8-4667-8870-be4afa4f89a0" width="100" height="100" class="rounded-image">
 <img src="https://github.com/albajarazeth/albajarazeth/assets/98627735/16bd5066-30f7-4b9d-8272-5e0ae14bb628" width="100" height="100" class="rounded-image">
+Spring Boot, PostgreSQL, Python, CSS 
 
-Spring Boot, PostgreSQL, CSS, SCSS 
-<h3>Daily I use React/Java</h3>
 
 
 🎀 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎀
